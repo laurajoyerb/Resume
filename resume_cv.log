@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  7 APR 2020 21:12
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  7 APR 2020 21:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -922,14 +922,14 @@ LaTeX Info: Redefining \selectfont on input line 73.
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
-* v-part:(T,H,B)=(42.67912pt, 745.46222pt, 56.9055pt)
+* v-part:(T,H,B)=(28.45274pt, 759.6886pt, 56.9055pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
 * \textwidth=483.69687pt
-* \textheight=745.46222pt
+* \textheight=759.6886pt
 * \oddsidemargin=-15.36449pt
 * \evensidemargin=-15.36449pt
-* \topmargin=-66.59087pt
+* \topmargin=-80.81725pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=11.0pt
@@ -1027,10 +1027,6 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 7.6pt on input line 76.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
 (Font)              scaled to size 7.6pt on input line 76.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 76.
-LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/it' will be
-(Font)              scaled to size 9.0pt on input line 76.
 
 Overfull \hbox (1.46pt too wide) in paragraph at lines 76--76
 []$[]$ $[]$$[]$ 
@@ -1078,6 +1074,8 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 11.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/sc' will be
 (Font)              scaled to size 12.0pt on input line 11.
+LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/m/n' will be
+(Font)              scaled to size 9.0pt on input line 23.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(1)/bx/n' will be
 (Font)              scaled to size 9.0pt on input line 23.
 ) (./cv-sections/presentation.tex)
@@ -1092,12 +1090,12 @@ Package rerunfilecheck Info: File `resume_cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
  ) 
 Here is how much of TeX's memory you used:
- 39948 strings out of 492916
- 788293 string characters out of 6133346
- 1002270 words of memory out of 5000000
- 43484 multiletter control sequences out of 15000+600000
- 534925 words of font info for 94 fonts, out of 8000000 for 9000
+ 39946 strings out of 492916
+ 788185 string characters out of 6133346
+ 1004014 words of memory out of 5000000
+ 43483 multiletter control sequences out of 15000+600000
+ 534917 words of font info for 93 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 72i,11n,109p,800b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,12n,109p,800b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume_cv.pdf (3 pages).

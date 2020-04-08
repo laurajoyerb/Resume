@@ -3,3 +3,7 @@
 *.log
 *.log
 resume_cv.log
+*.log
+resume_cv.log
+*.gz
+resume_cv.synctex.gz
